@@ -2,20 +2,18 @@
 
 O **FinanceFlow** é uma aplicação voltada para o gerenciamento financeiro pessoal. O objetivo do projeto é ajudar os usuários a controlar suas finanças de maneira fácil e intuitiva, acompanhando suas receitas, despesas e orçamentos mensais. Com a **FinanceFlow**, você tem o controle total do seu fluxo de caixa, tomando decisões mais informadas sobre seu dinheiro.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades - iniciais
 
 - **Controle de Despesas**: Registre suas despesas de maneira simples, categorizando-as para uma visão clara de onde seu dinheiro está sendo gasto.
-- **Controle de Receitas**: Registre suas fontes de renda para ter uma visão completa da sua situação financeira.
-- **Criação de Orçamentos**: Estabeleça orçamentos mensais para diferentes categorias e acompanhe seu progresso em tempo real.
 - **Relatórios e Gráficos**: Visualize seu fluxo de caixa com gráficos interativos, comparando receitas e despesas de diferentes períodos.
 - **Exportação de Dados**: Exporte seus relatórios financeiros em formatos CSV ou PDF para arquivamento ou compartilhamento.
 
 ## 📦 Tecnologias Utilizadas
 
-- **Frontend**: React.js para a construção da interface interativa.
-- **Backend**: Node.js com Express para o gerenciamento de dados e lógica de negócios.
-- **Banco de Dados**: MongoDB para armazenamento flexível e escalável de dados financeiros.
-- **Autenticação**: JWT para um sistema de login seguro e gerenciamento de usuários.
+- **Frontend**:
+- **Backend**:
+- **Banco de Dados**:
+- **Autenticação**:
 
 ## 🧩 Como Funciona o Nome "FinanceFlow"?
 
