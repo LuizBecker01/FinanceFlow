@@ -10,7 +10,7 @@ O **FinanceFlow** é uma aplicação voltada para o gerenciamento financeiro pes
 
 ## 📦 Tecnologias Utilizadas
 
-- **Frontend** - :
+- **Frontend** - Next JS + Shadcn U:
 - **Backend** - Pyhon:
 - **Banco de Dados** - PostgreSQL:
 <!-- - **Autenticação** - Biometria & JWT: -->
